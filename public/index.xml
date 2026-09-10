@@ -40,12 +40,12 @@
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
+      <title>My project blog Week 1 </title>
       <link>//localhost:1313/posts/post-lite-four/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/posts/post-lite-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      <description>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student.</description>
       
     </item>
     
