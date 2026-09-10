@@ -281,7 +281,7 @@
     "keywords": ["post","lorem","ipsum"],
     
     "mainEntityOfPage": "//localhost:1313/posts/post-lite-four/",
-    "wordCount":  539 
+    "wordCount":  341 
   }]
   </script>
 
@@ -863,7 +863,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2021-09-04T00:00:00&#43;00:00">4 September 2021</time><span class="px-2 text-primary-500">&middot;</span><span>539 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2021-09-04T00:00:00&#43;00:00">4 September 2021</time><span class="px-2 text-primary-500">&middot;</span><span>341 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
     
 
     
@@ -1012,10 +1012,9 @@
     <nav id="TableOfContents" aria-label="Table of Contents">
   <ul>
     <li><a href="#the-main-idea-of-the-project">The main idea of the project</a></li>
-    <li><a href="#nunc-non-leo-non-magna">Nunc non leo non magna</a></li>
-    <li><a href="#quisque-ultricies">Quisque ultricies</a></li>
-    <li><a href="#etiam-sollicitudin">Etiam sollicitudin</a></li>
-    <li><a href="#proin-tempor-lorem">Proin tempor lorem</a></li>
+    <li><a href="#what-did-i-implement-in-the-project">What did i implement in the project?</a></li>
+    <li><a href="#the-decisions-i-made-in-the-project">The decisions i made in the project</a></li>
+    <li><a href="#what-are-my-goals-for-next-week">What are my goals for next week?</a></li>
   </ul>
 </nav>
   </div>
@@ -1030,10 +1029,9 @@
     <nav id="TableOfContentsMobile" aria-label="Table of Contents">
   <ul>
     <li><a href="#the-main-idea-of-the-project">The main idea of the project</a></li>
-    <li><a href="#nunc-non-leo-non-magna">Nunc non leo non magna</a></li>
-    <li><a href="#quisque-ultricies">Quisque ultricies</a></li>
-    <li><a href="#etiam-sollicitudin">Etiam sollicitudin</a></li>
-    <li><a href="#proin-tempor-lorem">Proin tempor lorem</a></li>
+    <li><a href="#what-did-i-implement-in-the-project">What did i implement in the project?</a></li>
+    <li><a href="#the-decisions-i-made-in-the-project">The decisions i made in the project</a></li>
+    <li><a href="#what-are-my-goals-for-next-week">What are my goals for next week?</a></li>
   </ul>
 </nav>
   </div>
@@ -1060,52 +1058,40 @@
     </span>
     
 </h2>
-<p>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student.
-in laoreet leo fringilla eget. Etiam consequat sed nisi sit amet interdum. Pellentesque ullamcorper at turpis in ultrices. Pellentesque et elit mauris. Aenean eu augue sit amet nunc interdum ultricies. Aenean eleifend consectetur sapien vitae consectetur. Donec risus mauris, finibus at condimentum at, lacinia sit amet neque. Nulla facilisi. Suspendisse sollicitudin dolor quis eros tempor, a tempus ex varius.</p>
+<p>The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student. The way it works is i focus on having the learning objectives of the 1 semester divided into 14 subjects with the most relevant questions under each subject. So a user would click on a subject -&gt; question and then a chat with an llm would start and the user would improve their knowledge on the chosen question. After talking with an llm about the question a checkmark appears on the question and the user should have a better understanding of the concept. So overall the flow of the program is: subject -&gt; question -&gt; llm asks question -&gt; user answers question -&gt; llm gives feedback -&gt; question answered is true</p>
 
-<h2 class="relative group">Nunc non leo non magna
-    <div id="nunc-non-leo-non-magna" class="anchor"></div>
+<h2 class="relative group">What did i implement in the project?
+    <div id="what-did-i-implement-in-the-project" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#nunc-non-leo-non-magna" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#what-did-i-implement-in-the-project" aria-label="Anchor">#</a>
     </span>
     
 </h2>
-<p>Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus porttitor bibendum. In pharetra ullamcorper metus quis mollis. Mauris bibendum, est in commodo hendrerit, dolor purus hendrerit dolor, at pharetra sapien erat sit amet ante. Etiam aliquet euismod libero, vel tincidunt felis mollis at. Sed scelerisque, tortor in convallis auctor, elit quam consectetur lacus, quis posuere risus libero non sem. Mauris sagittis nisi id aliquam lacinia. Vivamus finibus velit sed condimentum aliquet. Nullam in ante a erat lacinia semper. Curabitur pretium justo at leo maximus, quis dignissim nulla posuere. Donec eget consectetur neque, et mattis dui. Vivamus at mi enim. Nullam et nisi est. Nullam eget eros blandit, convallis odio eget, ornare enim.</p>
+<p>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. I Set up a simple database with user, question and subject. I then made those entities in java and then connected my java to postgres using the DAO design pattern.</p>
 
-<h2 class="relative group">Quisque ultricies
-    <div id="quisque-ultricies" class="anchor"></div>
+<h2 class="relative group">The decisions i made in the project
+    <div id="the-decisions-i-made-in-the-project" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#quisque-ultricies" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-decisions-i-made-in-the-project" aria-label="Anchor">#</a>
     </span>
     
 </h2>
-<p>Quisque ultricies tincidunt sem nec tincidunt. Aenean nibh diam, dapibus varius ornare nec, suscipit ut arcu. Integer ut elit sollicitudin, fermentum ipsum nec, tempus eros. Donec hendrerit facilisis maximus. Pellentesque eu mi ipsum. Vivamus diam tellus, varius sed dolor at, finibus tempus lorem. Morbi sed mauris quis enim vehicula hendrerit. Sed et sollicitudin est. Maecenas scelerisque ligula ac purus gravida, et feugiat nibh blandit. Integer id quam ac arcu convallis interdum eget sed libero. Aliquam varius est quis efficitur efficitur. Cras id turpis magna. Aenean cursus, libero auctor ullamcorper vestibulum, nisl risus consectetur nisi, ut molestie enim libero sed ipsum.</p>
+<p>This week i decided to have number of questions variabel in my subject tabel because it could be an intressting information later down the line. I decided to follow an interface for making DAO classes called IDAO where there is basic CRUD methods because it makes it so i create useful CRUD methods without thinking about it too much. Moreover its most likely going to save me time later down the line.</p>
 
-<h2 class="relative group">Etiam sollicitudin
-    <div id="etiam-sollicitudin" class="anchor"></div>
+<h2 class="relative group">What are my goals for next week?
+    <div id="what-are-my-goals-for-next-week" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#etiam-sollicitudin" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#what-are-my-goals-for-next-week" aria-label="Anchor">#</a>
     </span>
     
 </h2>
-<p>Etiam sollicitudin, ante ac fermentum varius, lorem ante congue mi, auctor dictum magna sem sed nibh. In et est id neque gravida aliquet quis a felis. Mauris tempor lectus ut gravida ornare. Curabitur at elementum tortor, in feugiat elit. Aenean auctor diam ut egestas rhoncus. Quisque tristique venenatis risus vitae suscipit. Nunc feugiat purus sed dolor gravida, non ullamcorper metus suscipit. Sed et tortor odio. Pellentesque at scelerisque nulla. In ut aliquam metus. Vivamus congue augue at pellentesque rhoncus. Donec a lectus tincidunt, aliquet libero sit amet, commodo arcu. Vivamus hendrerit quis augue eu lacinia. Sed sodales velit condimentum eros varius vulputate.</p>
-
-<h2 class="relative group">Proin tempor lorem
-    <div id="proin-tempor-lorem" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#proin-tempor-lorem" aria-label="Anchor">#</a>
-    </span>
-    
-</h2>
-<p>Proin tempor lorem quam, ac maximus lectus sodales et. Sed laoreet orci vel metus luctus lobortis. Nam ex velit, vehicula id tristique sed, blandit eu nisi. Quisque semper libero nec massa malesuada congue. In faucibus lorem at diam fringilla, vel viverra magna lobortis. Ut commodo est urna, ut aliquet enim sagittis ut. Nulla posuere arcu sed lobortis accumsan. Phasellus fringilla dolor id est lobortis feugiat. Quisque enim elit, faucibus a mauris non, mattis aliquet orci. Nunc sagittis viverra erat, id condimentum lacus suscipit quis.</p>
+<p>Next week my goals are the following. I want to make relations between my entities because its gonna help my understanding of the project. I want to set up integration tests for my DAO classes to see if everything is working.</p>
 
           
           
