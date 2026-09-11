@@ -18,9 +18,7 @@ contentDir = 'content/en'
   name = "Emil Vilhelm"
   image = "img/avatar.png"
   headline = "Software developer in training"
-  bio = "A little bit about you"
+  bio = "Software developer in training"
    links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { x-twitter = "https://twitter.com/burufugu" }
+     { github = "https://github.com/Schel-beck" },
    ]
