@@ -1,25 +1,23 @@
 ---
 title: "My project blog week 3"
-summary: "In this week i mainly focused on "
+summary: "week 3 i focused on chaniging the structure of my api reader class because i needed to make the conversation between the user and the llm interactive. I also found out that it would be smart to have a back up llm since the free gemini llm is not always reliable."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-11
+date: 2026-09-11
 draft: false
 ---
 
-## Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna. Nulla venenatis volutpat libero, in laoreet leo fringilla eget. Etiam consequat sed nisi sit amet interdum. Pellentesque ullamcorper at turpis in ultrices. Pellentesque et elit mauris. Aenean eu augue sit amet nunc interdum ultricies. Aenean eleifend consectetur sapien vitae consectetur. Donec risus mauris, finibus at condimentum at, lacinia sit amet neque. Nulla facilisi. Suspendisse sollicitudin dolor quis eros tempor, a tempus ex varius.
+## The goals of this week
+The goals from this week was to put questions and subjects into my database. I have to find or mak the best questions and subjects for a datamatiker 1.sem student. This week i also have to improve my api reader class to make the conversation between the llm and the user interactive, because the user needs feedback on what they write. Since im learning about concurrency i will see if it makes sense to implement it into my project. 
 
-## Nunc non leo non magna
-Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus porttitor bibendum. In pharetra ullamcorper metus quis mollis. Mauris bibendum, est in commodo hendrerit, dolor purus hendrerit dolor, at pharetra sapien erat sit amet ante. Etiam aliquet euismod libero, vel tincidunt felis mollis at. Sed scelerisque, tortor in convallis auctor, elit quam consectetur lacus, quis posuere risus libero non sem. Mauris sagittis nisi id aliquam lacinia. Vivamus finibus velit sed condimentum aliquet. Nullam in ante a erat lacinia semper. Curabitur pretium justo at leo maximus, quis dignissim nulla posuere. Donec eget consectetur neque, et mattis dui. Vivamus at mi enim. Nullam et nisi est. Nullam eget eros blandit, convallis odio eget, ornare enim.
+## What did i implement this week?
+week 3 i focused on chaniging the structure of my api reader class because i needed to make the conversation between the user and the llm interactive. I also found out that it would be smart to have a back up llm since the free gemini llm is not always reliable. That's why i implemented a reserve llm in case of specific server errors like 429 or 408. i made a method called isRetyable() with all the status codes where it make sense to try another model. I also put questions and subjects into my database manually, and made my read api method interactive by putting all previous answers in a list.
 
-## Quisque ultricies
-Quisque ultricies tincidunt sem nec tincidunt. Aenean nibh diam, dapibus varius ornare nec, suscipit ut arcu. Integer ut elit sollicitudin, fermentum ipsum nec, tempus eros. Donec hendrerit facilisis maximus. Pellentesque eu mi ipsum. Vivamus diam tellus, varius sed dolor at, finibus tempus lorem. Morbi sed mauris quis enim vehicula hendrerit. Sed et sollicitudin est. Maecenas scelerisque ligula ac purus gravida, et feugiat nibh blandit. Integer id quam ac arcu convallis interdum eget sed libero. Aliquam varius est quis efficitur efficitur. Cras id turpis magna. Aenean cursus, libero auctor ullamcorper vestibulum, nisl risus consectetur nisi, ut molestie enim libero sed ipsum.
+## The decisions i made this week
+I manually put the data into my database which was 14 subjects and 58 questions. I decided these questions and subjects since they were made by a teacher of datamatiker 1.sem as a way to get ready for the exam. Looking back i probably could have used my program or even an ai to put the questions into the database, however putting them in manually seemed like the most simple way of doing it. I made a LLMException class because its got a boolean retryable so i can see if i should call on my reserve llm. 
 
-## Etiam sollicitudin
-Etiam sollicitudin, ante ac fermentum varius, lorem ante congue mi, auctor dictum magna sem sed nibh. In et est id neque gravida aliquet quis a felis. Mauris tempor lectus ut gravida ornare. Curabitur at elementum tortor, in feugiat elit. Aenean auctor diam ut egestas rhoncus. Quisque tristique venenatis risus vitae suscipit. Nunc feugiat purus sed dolor gravida, non ullamcorper metus suscipit. Sed et tortor odio. Pellentesque at scelerisque nulla. In ut aliquam metus. Vivamus congue augue at pellentesque rhoncus. Donec a lectus tincidunt, aliquet libero sit amet, commodo arcu. Vivamus hendrerit quis augue eu lacinia. Sed sodales velit condimentum eros varius vulputate.
+## What are my goals for next week?
+In the next week im working on another project so i might not do a lot on this project. However there is some improvements i can make like adding some new DAO methods and finding a better openAi model to use.
 
-## Proin tempor lorem
-Proin tempor lorem quam, ac maximus lectus sodales et. Sed laoreet orci vel metus luctus lobortis. Nam ex velit, vehicula id tristique sed, blandit eu nisi. Quisque semper libero nec massa malesuada congue. In faucibus lorem at diam fringilla, vel viverra magna lobortis. Ut commodo est urna, ut aliquet enim sagittis ut. Nulla posuere arcu sed lobortis accumsan. Phasellus fringilla dolor id est lobortis feugiat. Quisque enim elit, faucibus a mauris non, mattis aliquet orci. Nunc sagittis viverra erat, id condimentum lacus suscipit quis.

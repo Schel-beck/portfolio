@@ -1,11 +1,11 @@
 ---
-title: "My project vlog week 2"
+title: "My project blog week 2"
 summary: "In the second week of my project i mainly focused on fetching data from geminis llm API. Moreover i made sure to create relations between my entities and i made integration tests for my DAO classes"
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-04
+date: 2026-09-04
 draft: false
 ---
 

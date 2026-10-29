@@ -4,7 +4,7 @@
 
   <url>
     <loc>//localhost:1313/categories/blog/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,7 +36,7 @@
   </url>
   <url>
     <loc>//localhost:1313/tags/ipsum/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -52,7 +52,7 @@
   </url>
   <url>
     <loc>//localhost:1313/tags/lorem/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -67,24 +67,14 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-one/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/post-lite-five/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/posts/post-lite-one/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/posts/post-lite-one/"
-    />
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -100,7 +90,7 @@
   </url>
   <url>
     <loc>//localhost:1313/categories/post/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -116,7 +106,7 @@
   </url>
   <url>
     <loc>//localhost:1313/tags/post/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -132,7 +122,7 @@
   </url>
   <url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -148,7 +138,7 @@
   </url>
   <url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -163,8 +153,24 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/posts/post-lite-one/</loc>
+    <lastmod>2026-09-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-PT"
+      href="//localhost:1313/pt-pt/posts/post-lite-one/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/post-lite-one/"
+    />
+  </url>
+  <url>
     <loc>//localhost:1313/posts/post-lite-two/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -179,24 +185,8 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-three/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/posts/post-lite-three/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/posts/post-lite-three/"
-    />
-  </url>
-  <url>
     <loc>//localhost:1313/posts/post-lite-four/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -211,7 +201,28 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/posts/post-lite-three/</loc>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-PT"
+      href="//localhost:1313/pt-pt/posts/post-lite-three/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/posts/post-lite-three/"
+    />
+  </url>
+  <url>
     <loc>//localhost:1313/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/categories/homepage/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

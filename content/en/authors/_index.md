@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: "profile"
-categories: ["Post","Blog",]
+categories: ["Post","Blog","homepage"]
 tags: ["post","lorem","ipsum"]
 showAuthor: true
 ---

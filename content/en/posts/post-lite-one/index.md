@@ -1,25 +1,22 @@
 ---
 title: "My project blog week 4"
-summary: "week 4 make next week"
+summary: "In this week im gonna implement controller and handler methods for my internal api. Moreover there is some structural changes i want to make in my program since i learned a lot from working on another project sp1"
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-18
+date: 2026-09-25
 draft: false
 ---
 
-## Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna. Nulla venenatis volutpat libero, in laoreet leo fringilla eget. Etiam consequat sed nisi sit amet interdum. Pellentesque ullamcorper at turpis in ultrices. Pellentesque et elit mauris. Aenean eu augue sit amet nunc interdum ultricies. Aenean eleifend consectetur sapien vitae consectetur. Donec risus mauris, finibus at condimentum at, lacinia sit amet neque. Nulla facilisi. Suspendisse sollicitudin dolor quis eros tempor, a tempus ex varius.
+## The goals for this week
+In this week im gonna implement controller and handler methods for my internal api. Moreover there is some structural changes i want to make in my program since i learned a lot from working on another project sp1: https://github.com/Schel-beck/Sp1-3.sem
 
-## Nunc non leo non magna
-Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus porttitor bibendum. In pharetra ullamcorper metus quis mollis. Mauris bibendum, est in commodo hendrerit, dolor purus hendrerit dolor, at pharetra sapien erat sit amet ante. Etiam aliquet euismod libero, vel tincidunt felis mollis at. Sed scelerisque, tortor in convallis auctor, elit quam consectetur lacus, quis posuere risus libero non sem. Mauris sagittis nisi id aliquam lacinia. Vivamus finibus velit sed condimentum aliquet. Nullam in ante a erat lacinia semper. Curabitur pretium justo at leo maximus, quis dignissim nulla posuere. Donec eget consectetur neque, et mattis dui. Vivamus at mi enim. Nullam et nisi est. Nullam eget eros blandit, convallis odio eget, ornare enim.
+## What did i implement this week
+In this week i implemented controllers for Question and Subjects with corresponding handler methods. I made a .http class so i can easily use my crud methods. I made an interface for my controllers called IController with crud methods. I changed my llm prompt to return a json string, which made it so i can put a lot of informations in a list easier. 
 
-## Quisque ultricies
-Quisque ultricies tincidunt sem nec tincidunt. Aenean nibh diam, dapibus varius ornare nec, suscipit ut arcu. Integer ut elit sollicitudin, fermentum ipsum nec, tempus eros. Donec hendrerit facilisis maximus. Pellentesque eu mi ipsum. Vivamus diam tellus, varius sed dolor at, finibus tempus lorem. Morbi sed mauris quis enim vehicula hendrerit. Sed et sollicitudin est. Maecenas scelerisque ligula ac purus gravida, et feugiat nibh blandit. Integer id quam ac arcu convallis interdum eget sed libero. Aliquam varius est quis efficitur efficitur. Cras id turpis magna. Aenean cursus, libero auctor ullamcorper vestibulum, nisl risus consectetur nisi, ut molestie enim libero sed ipsum.
+## The decisions i made this week
+For now i chose to have controller methods for Question and Subject, because in my current scope these were the most important. I might add more controller classes later down the line if i see the need. I chose to stopped using hard coded questions and subjects because it makes it cleaner to have an llm generate these things.
 
-## Etiam sollicitudin
-Etiam sollicitudin, ante ac fermentum varius, lorem ante congue mi, auctor dictum magna sem sed nibh. In et est id neque gravida aliquet quis a felis. Mauris tempor lectus ut gravida ornare. Curabitur at elementum tortor, in feugiat elit. Aenean auctor diam ut egestas rhoncus. Quisque tristique venenatis risus vitae suscipit. Nunc feugiat purus sed dolor gravida, non ullamcorper metus suscipit. Sed et tortor odio. Pellentesque at scelerisque nulla. In ut aliquam metus. Vivamus congue augue at pellentesque rhoncus. Donec a lectus tincidunt, aliquet libero sit amet, commodo arcu. Vivamus hendrerit quis augue eu lacinia. Sed sodales velit condimentum eros varius vulputate.
-
-## Proin tempor lorem
-Proin tempor lorem quam, ac maximus lectus sodales et. Sed laoreet orci vel metus luctus lobortis. Nam ex velit, vehicula id tristique sed, blandit eu nisi. Quisque semper libero nec massa malesuada congue. In faucibus lorem at diam fringilla, vel viverra magna lobortis. Ut commodo est urna, ut aliquet enim sagittis ut. Nulla posuere arcu sed lobortis accumsan. Phasellus fringilla dolor id est lobortis feugiat. Quisque enim elit, faucibus a mauris non, mattis aliquet orci. Nunc sagittis viverra erat, id condimentum lacus suscipit quis.
+## What are my goals for next week
+Next week i want to test my controller classes and test any non testet dao classes. I want to add more logging in my program. I want to add more attributes to some entities to make the possibility of a admin page. Moreover i want look into websockets and see if it makes sense to implement them in my project. 
