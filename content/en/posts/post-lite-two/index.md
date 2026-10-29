@@ -1,11 +1,11 @@
 ---
-title: "Super cool article that I wrote"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+title: "My project blog week 3"
+summary: "In this week i mainly focused on "
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-04
+date: 2022-09-11
 draft: false
 ---
 

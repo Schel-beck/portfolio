@@ -211,21 +211,6 @@
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt-pt/authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/authors/"
-    />
-  </url>
-  <url>
     <loc>//localhost:1313/pt-pt/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
