@@ -3,242 +3,260 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/categories/blog/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/categories/blog/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/categories/blog/"
+      href="//localhost:58025/pt-pt/categories/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/categories/blog/"
+      href="//localhost:58025/categories/blog/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/categories/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/categories/"
+      href="//localhost:58025/pt-pt/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/categories/"
+      href="//localhost:58025/categories/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/ipsum/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/tags/ipsum/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/tags/ipsum/"
+      href="//localhost:58025/pt-pt/tags/ipsum/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/tags/ipsum/"
+      href="//localhost:58025/tags/ipsum/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/lorem/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/tags/lorem/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/tags/lorem/"
+      href="//localhost:58025/pt-pt/tags/lorem/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/tags/lorem/"
+      href="//localhost:58025/tags/lorem/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-five/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/posts/post-lite-eight/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/categories/post/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/categories/post/"
+      href="//localhost:58025/pt-pt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/categories/post/"
+      href="//localhost:58025/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/post/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/categories/post/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/tags/post/"
+      href="//localhost:58025/pt-pt/categories/post/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/tags/post/"
+      href="//localhost:58025/categories/post/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/tags/post/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/posts/"
+      href="//localhost:58025/pt-pt/tags/post/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/posts/"
+      href="//localhost:58025/tags/post/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/posts/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/tags/"
+      href="//localhost:58025/pt-pt/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/tags/"
+      href="//localhost:58025/posts/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-one/</loc>
+    <loc>//localhost:58025/tags/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-PT"
+      href="//localhost:58025/pt-pt/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:58025/tags/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:58025/posts/post-lite-seven/</loc>
+    <lastmod>2026-10-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:58025/posts/post-lite-six/</loc>
+    <lastmod>2026-10-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:58025/posts/post-lite-five/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:58025/posts/post-lite-one/</loc>
     <lastmod>2026-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/posts/post-lite-one/"
+      href="//localhost:58025/pt-pt/posts/post-lite-one/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/posts/post-lite-one/"
+      href="//localhost:58025/posts/post-lite-one/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-two/</loc>
+    <loc>//localhost:58025/posts/post-lite-three/</loc>
     <lastmod>2026-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/posts/post-lite-two/"
+      href="//localhost:58025/pt-pt/posts/post-lite-three/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/posts/post-lite-two/"
+      href="//localhost:58025/posts/post-lite-three/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-four/</loc>
+    <loc>//localhost:58025/posts/post-lite-two/</loc>
+    <lastmod>2026-09-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-PT"
+      href="//localhost:58025/pt-pt/posts/post-lite-two/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:58025/posts/post-lite-two/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:58025/posts/post-lite-four/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/posts/post-lite-four/"
+      href="//localhost:58025/pt-pt/posts/post-lite-four/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/posts/post-lite-four/"
+      href="//localhost:58025/posts/post-lite-four/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-three/</loc>
-    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:58025/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:58025/categories/homepage/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:58025/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/posts/post-lite-three/"
+      href="//localhost:58025/pt-pt/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/posts/post-lite-three/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/categories/homepage/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/series/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-PT"
-      href="//localhost:1313/pt-pt/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/series/"
+      href="//localhost:58025/series/"
     />
   </url>
 </urlset>

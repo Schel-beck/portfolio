@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Portfolio</title>
-    <link>//localhost:1313/authors/</link>
+    <link>//localhost:58025/authors/</link>
     <description>Recent content in About on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Emil Vilhelm</copyright>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:58025/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

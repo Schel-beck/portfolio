@@ -2,69 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Portfolio</title>
-    <link>//localhost:1313/categories/blog/</link>
+    <link>//localhost:58025/categories/blog/</link>
     <description>Recent content in Blog on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Emil Vilhelm</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:58025/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My project blog Week 8 </title>
+      <link>//localhost:58025/posts/post-lite-eight/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:58025/posts/post-lite-eight/</guid>
+      <description>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student.</description>
+      
+    </item>
+    
+    <item>
+      <title>My project blog Week 7 </title>
+      <link>//localhost:58025/posts/post-lite-seven/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:58025/posts/post-lite-seven/</guid>
+      <description>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student.</description>
+      
+    </item>
+    
+    <item>
+      <title>My project blog Week 6 </title>
+      <link>//localhost:58025/posts/post-lite-six/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:58025/posts/post-lite-six/</guid>
+      <description>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student.</description>
+      
+    </item>
     
     <item>
       <title>My project blog Week 5 </title>
-      <link>//localhost:1313/posts/post-lite-five/</link>
+      <link>//localhost:58025/posts/post-lite-five/</link>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-five/</guid>
+      <guid>//localhost:58025/posts/post-lite-five/</guid>
       <description>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student.</description>
       
     </item>
     
     <item>
       <title>My project blog week 4</title>
-      <link>//localhost:1313/posts/post-lite-one/</link>
+      <link>//localhost:58025/posts/post-lite-one/</link>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-one/</guid>
+      <guid>//localhost:58025/posts/post-lite-one/</guid>
       <description>In this week im gonna implement controller and handler methods for my internal api. Moreover there is some structural changes i want to make in my program since i learned a lot from working on another project sp1</description>
       
     </item>
     
     <item>
-      <title>My project blog week 3</title>
-      <link>//localhost:1313/posts/post-lite-two/</link>
+      <title>My project blog week 2</title>
+      <link>//localhost:58025/posts/post-lite-three/</link>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-two/</guid>
+      <guid>//localhost:58025/posts/post-lite-three/</guid>
+      <description>In the second week of my project i mainly focused on fetching data from geminis llm API. Moreover i made sure to create relations between my entities and i made integration tests for my DAO classes</description>
+      
+    </item>
+    
+    <item>
+      <title>My project blog week 3</title>
+      <link>//localhost:58025/posts/post-lite-two/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:58025/posts/post-lite-two/</guid>
       <description>week 3 i focused on chaniging the structure of my api reader class because i needed to make the conversation between the user and the llm interactive. I also found out that it would be smart to have a back up llm since the free gemini llm is not always reliable.</description>
       
     </item>
     
     <item>
       <title>My project blog Week 1 </title>
-      <link>//localhost:1313/posts/post-lite-four/</link>
+      <link>//localhost:58025/posts/post-lite-four/</link>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-four/</guid>
+      <guid>//localhost:58025/posts/post-lite-four/</guid>
       <description>In my first week of starting this new project i was mainly thinking about what features my program would have. I started out making a mental model of what i wanted and then translated that flow into a domianmodel. The main idea of the project is a learning platform for a 1 semester datamatiker(software development) student.</description>
       
     </item>
     
     <item>
-      <title>My project blog week 2</title>
-      <link>//localhost:1313/posts/post-lite-three/</link>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/post-lite-three/</guid>
-      <description>In the second week of my project i mainly focused on fetching data from geminis llm API. Moreover i made sure to create relations between my entities and i made integration tests for my DAO classes</description>
-      
-    </item>
-    
-    <item>
       <title>About</title>
-      <link>//localhost:1313/authors/</link>
+      <link>//localhost:58025/authors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/</guid>
+      <guid>//localhost:58025/authors/</guid>
       <description>&lt;p&gt;Hello, this is my About page.&lt;/p&gt;</description>
       
     </item>
